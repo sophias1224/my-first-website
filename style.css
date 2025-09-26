@@ -1,0 +1,24 @@
+* General page styles */
+body {
+font-family: 'Times New Roman', Times, serif,;
+background-color: #fff7e6; /* Soft cream background */
+margin: 20px;
+}
+/* Heading */
+h1 {
+color: pink; /* Warm orange */
+}
+/* Paragraph */
+p {
+color: pink;
+}
+/* List styles */
+ul {
+list-style-type: square; /* Options: disc, circle, square */
+padding-left: 20px;
+}
+li {
+margin: 5px 0;
+color: pink; /* Dark teal */
+}
+
