@@ -33,14 +33,14 @@ display: flex;
   border-radius: 15px; 
 }
 #box1{
-  background-color: dark pink
-}
-#box2{
   background-color: pink
 }
+#box2{
+  background-color: purple
+}
 #box3{
-  background-color: lightpink 
+  background-color: pink 
 {
 #box4{
-  background-color: lightpink
+  background-color: purple
 }
