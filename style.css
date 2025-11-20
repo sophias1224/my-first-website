@@ -45,3 +45,7 @@ display: flex;
 #box4{
   background-color: pink
 }
+.artist-pic {
+  width: 200px;
+  height: 300px
+}
